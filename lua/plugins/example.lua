@@ -157,6 +157,7 @@ return {
         "yaml",
         "fish",
         "go",
+        "rust",
       },
     },
   },
